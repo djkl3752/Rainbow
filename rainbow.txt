@@ -1,1 +1,7 @@
-
+Rod
+Orange
+Gelb
+Gruen
+Blau
+Indigo
+Violett
